@@ -1,0 +1,15 @@
+:root {
+  --main-color: #141414;
+  --text-color: #e5e5e5;
+}
+
+*,
+body {
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-style: "Roboto", sans-serif;
+  background-color: var(--main-color);
+}
